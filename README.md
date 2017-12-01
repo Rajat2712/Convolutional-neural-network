@@ -59,3 +59,5 @@ CNNs use a variation of multilayer perceptrons designed to require minimal prepr
 ![gradient](https://user-images.githubusercontent.com/23000971/33507944-a67ab51e-d71d-11e7-9fd4-8346780e62fb.JPG)
 
 ## Match Activations of Original Image
+
+![download](https://user-images.githubusercontent.com/23000971/33508260-50cc2560-d71f-11e7-97d8-e5615ca4de6c.png)
