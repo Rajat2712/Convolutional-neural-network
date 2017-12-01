@@ -49,3 +49,13 @@ CNNs use a variation of multilayer perceptrons designed to require minimal prepr
 
 ## Read layer block5_conv3
 ![readlayer](https://user-images.githubusercontent.com/23000971/33507948-a7410778-d71d-11e7-8bb0-0717de0ce7df.JPG)
+
+## Bar Chart
+
+![barchart](https://user-images.githubusercontent.com/23000971/33507936-a4ca8adc-d71d-11e7-99cd-6e605c9977ce.JPG)
+
+## Visualize the Gradients on the Input Image
+
+![gradient](https://user-images.githubusercontent.com/23000971/33507944-a67ab51e-d71d-11e7-9fd4-8346780e62fb.JPG)
+
+## Match Activations of Original Image
